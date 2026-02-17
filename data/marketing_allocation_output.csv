@@ -1,0 +1,6 @@
+product_id,current_stock,predicted_demand,promotion_percentage,manpower_required,marketing_channels
+P001,140,9.61822299251202,50,2,"Email, Social Media"
+P002,89,5.381777007487983,20,1,Email
+P003,41,17.244829270161063,20,1,Email
+P004,104,3.189655667694428,50,2,"Email, Social Media"
+P005,147,9.209120114139072,50,2,"Email, Social Media"
